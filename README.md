@@ -28,6 +28,12 @@ pnpm dev
 pnpm build
 ```
 
+### Compile and publish on gh-page branch for Production
+
+```sh
+pnpm deploy
+```
+
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
