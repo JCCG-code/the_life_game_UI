@@ -22,20 +22,8 @@ pnpm install
 pnpm dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
 ### Compile and publish on gh-page branch for Production
 
 ```sh
 npm run deploy
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
 ```
